@@ -2,7 +2,7 @@
   "name": "logseq-plugin-starter",
   "version": "0.0.1",
   "license": "MIT",
-  "main": "dist/index.html",
+  "main": "index.html",
   "logseq": {},
   "scripts": {
     "start": "webpack serve --config=webpack.config.js --devtool=source-map --mode=development --port=3001",
