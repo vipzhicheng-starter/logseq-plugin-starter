@@ -1,5 +1,7 @@
 # Webpack Typescript Starter For Logseq Plugin
 
+[![Github All Releases](https://img.shields.io/github/downloads/vipzhicheng-starter/logseq-plugin-starter/total.svg)](https://github.com/vipzhicheng-starter/logseq-plugin-starter/releases)
+
 A simple webpack typescript starter for Logseq Plugin Development
 
 ## What's in it.
